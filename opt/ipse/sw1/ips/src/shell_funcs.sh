@@ -23,7 +23,7 @@ function build_err_msg
 ################################################################################
 function validate_script
 {
-  # Get info from ipse_gvi.ini and use it for validations.
+  # Get info from ipse_gvi.ini and use it for validations. This is test
   # Validate that the SID_NAME parameter contains a valid database on the server
   # it is being run on and validate that the Unix user can run this script.
 
